@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/delegate-phone-bank/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/delegate-phone-bank/static/js/main.4d7d6ffe.chunk.js",
-    "main.js.map": "/delegate-phone-bank/static/js/main.4d7d6ffe.chunk.js.map",
+    "main.js": "/delegate-phone-bank/static/js/main.72be009b.chunk.js",
+    "main.js.map": "/delegate-phone-bank/static/js/main.72be009b.chunk.js.map",
     "runtime-main.js": "/delegate-phone-bank/static/js/runtime-main.55bdc406.js",
     "runtime-main.js.map": "/delegate-phone-bank/static/js/runtime-main.55bdc406.js.map",
     "static/js/2.c20f0fbe.chunk.js": "/delegate-phone-bank/static/js/2.c20f0fbe.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.55bdc406.js",
     "static/js/2.c20f0fbe.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.4d7d6ffe.chunk.js"
+    "static/js/main.72be009b.chunk.js"
   ]
 }
