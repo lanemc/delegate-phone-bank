@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/delegate-phone-bank/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/delegate-phone-bank/static/js/main.392198c7.chunk.js",
+    "main.js.map": "/delegate-phone-bank/static/js/main.392198c7.chunk.js.map",
+    "runtime-main.js": "/delegate-phone-bank/static/js/runtime-main.55bdc406.js",
+    "runtime-main.js.map": "/delegate-phone-bank/static/js/runtime-main.55bdc406.js.map",
+    "static/js/2.c20f0fbe.chunk.js": "/delegate-phone-bank/static/js/2.c20f0fbe.chunk.js",
+    "static/js/2.c20f0fbe.chunk.js.map": "/delegate-phone-bank/static/js/2.c20f0fbe.chunk.js.map",
+    "static/js/3.10699a0c.chunk.js": "/delegate-phone-bank/static/js/3.10699a0c.chunk.js",
+    "static/js/3.10699a0c.chunk.js.map": "/delegate-phone-bank/static/js/3.10699a0c.chunk.js.map",
+    "index.html": "/delegate-phone-bank/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/delegate-phone-bank/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c20f0fbe.chunk.js.LICENSE.txt": "/delegate-phone-bank/static/js/2.c20f0fbe.chunk.js.LICENSE.txt",
+    "static/media/logo.058e0f1b.png": "/delegate-phone-bank/static/media/logo.058e0f1b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55bdc406.js",
+    "static/js/2.c20f0fbe.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.392198c7.chunk.js"
+  ]
+}
